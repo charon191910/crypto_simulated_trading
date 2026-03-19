@@ -6,7 +6,10 @@
       "Bash(mkdocs -h)",
       "Bash(mkdocs gh-deploy:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(python -c \"from PIL import Image, ImageDraw, ImageFont; img = Image.new\\(''PNG'', \\(64, 64\\), color=''#1E88E5''\\); draw = ImageDraw.Draw\\(img\\); draw.text\\(\\(20, 20\\), ''BTC'', fill=''white'', font=ImageFont.truetype\\(''arial.ttf'', 32\\) if __import__\\(''os''\\).path.exists\\(''arial.ttf''\\) else None\\); img.save\\(''docs/assets/images/favicon.png''\\)\")",
+      "Bash(mkdir -p docs/assets/images)",
+      "Bash(echo \"<svg xmlns=''http://www.w3.org/2000/svg'' viewBox=''0 0 64 64''><rect fill=''#FF6F00'' width=''64'' height=''64''/><text x=''32'' y=''40'' font-family=''Arial'' font-size=''32'' font-weight=''bold'' fill=''white'' text-anchor=''middle''>₿</text></svg>\")"
     ]
   }
 }

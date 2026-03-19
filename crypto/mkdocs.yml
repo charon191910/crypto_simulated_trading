@@ -4,25 +4,28 @@ theme:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
-    - search.suggest
-    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: purple
+  icon:
+    logo: material/currency-btc
+    favicon: assets/images/favicon.svg
 
 site_name: 虚拟货币模拟盘交易记录
 site_description: 个人虚拟货币模拟盘交易记录和分析
+copyright: 2026 虚拟货币模拟盘交易记录
 
 nav:
   - 首页: index.md
-  - 交易记录:
-    - 交易模板: trade-template.md
-    - 2026年3月:
-      - 03-19: 2026-03-19.md
-  - 交易统计: statistics.md
-  - 交易策略: strategies.md
-  - 盈亏分析: profit-loss.md
+
 
 plugins:
   - search
-  - git-revision-date-localized:
-      type: timeago
-      enable_creation_date: true
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SEMHAQ/crypto_simulated_trading
 
