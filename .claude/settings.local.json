@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(mkdocs serve:*)",
+      "Bash(mkdocs -h)",
+      "Bash(mkdocs gh-deploy:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
