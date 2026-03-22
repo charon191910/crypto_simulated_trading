@@ -11,7 +11,7 @@
 ### 📅 **第1-10天 (3月20-29日)**
 - [Day 1](record/day1.md) - 已记录 ✅ **86,456.24 USD**
 - [Day 2](record/day2.md) - 已记录 ✅ **86,405.01 USD** <span style="color:red">-51.23 (-0.06%)</span>
-- [Day 3](record/day3.md) - 待记录
+- [Day 3](record/day3.md) - 已记录 ✅ **84,420.27 USD** <span style="color:red">-1,984.74 (-2.29%)</span>
 - [Day 4](record/day4.md) - 待记录
 - [Day 5](record/day5.md) - 待记录
 - [Day 6](record/day6.md) - 待记录
@@ -131,9 +131,9 @@
 ---
 
 ## 📊 进度统计
-- **已完成**: 2/100 天 (2%)
-- **进行中**: Day 3
-- **待完成**: 97 天
+- **已完成**: 3/100 天 (3%)
+- **进行中**: Day 4
+- **待完成**: 96 天
 
 ---
 
