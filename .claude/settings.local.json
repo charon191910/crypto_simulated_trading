@@ -18,7 +18,8 @@
       "Bash(move \"E:\\\\Project\\\\crypto_simulated_trading\\\\crypto\\\\docs\\\\inDEX.md\" \"E:\\\\Project\\\\crypto_simulated_trading\\\\crypto\\\\docs\\\\inDEX.md\")",
       "Bash(copy inDEX.md index.md)",
       "Bash(move inDEX.md index.md)",
-      "Bash(python -c \"import os; os.rename\\(''inDEX.md'', ''index.md''\\)\")"
+      "Bash(python -c \"import os; os.rename\\(''inDEX.md'', ''index.md''\\)\")",
+      "Bash(python -c \"import os; os.rename\\('inDEX.md', 'index.md'\\)\")"
     ]
   }
 }

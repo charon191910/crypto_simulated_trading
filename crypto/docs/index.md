@@ -24,7 +24,7 @@
 - [Day 11](record/day11.md) - 已记录 ✅ **85,250.54 USD** <span style="color:green">+1,303.82 (+1.55%)</span>
 - [Day 12](record/day12.md) - 已记录 ✅ **84,300.19 USD** <span style="color:red">-950.35 (-1.11%)</span>
 - [Day 13](record/day13.md) - 已记录 ✅ **86,238.18 USD** <span style="color:green">+1,937.99 (+2.30%)</span>
-- [Day 14](record/day14.md) - 待记录
+- [Day 14](record/day14.md) - 已记录 ✅ **83,839.33 USD** <span style="color:red">-2,398.85 (-2.78%)</span>
 - [Day 15](record/day15.md) - 待记录
 - [Day 16](record/day16.md) - 待记录
 - [Day 17](record/day17.md) - 待记录
@@ -131,9 +131,9 @@
 ---
 
 ## 📊 进度统计
-- **已完成**: 13/100 天 (13%)
-- **进行中**: Day 14
-- **待完成**: 86 天
+- **已完成**: 14/100 天 (14%)
+- **进行中**: Day 15
+- **待完成**: 85 天
 
 ---
 
